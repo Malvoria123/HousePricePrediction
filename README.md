@@ -1,5 +1,6 @@
 # HousePricePrediction
 This repository contains my individual project about data analysis on house data and house price prediction.
+Please view this in code mode.
 
 Here's the description of the dataset:
 
